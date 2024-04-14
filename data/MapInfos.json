@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"eterior","order":1,"parentId":0,"scrollX":733.5,"scrollY":709.5},
-{"id":2,"expanded":true,"name":"Sala","order":2,"parentId":1,"scrollX":884.7272727272727,"scrollY":524.7272727272727},
+{"id":2,"expanded":true,"name":"Sala","order":2,"parentId":1,"scrollX":652,"scrollY":630.6666666666666},
 {"id":3,"expanded":false,"name":"Escritorio","order":3,"parentId":1,"scrollX":0,"scrollY":0},
 {"id":4,"expanded":false,"name":"Quarto","order":4,"parentId":1,"scrollX":0,"scrollY":0},
 {"id":5,"expanded":false,"name":"Cozinha","order":5,"parentId":1,"scrollX":0,"scrollY":0},

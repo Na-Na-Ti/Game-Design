@@ -10,7 +10,7 @@ null,
 {"id":8,"expanded":false,"name":"Corredor2","order":10,"parentId":0,"scrollX":482,"scrollY":453.6},
 {"id":9,"expanded":true,"name":"Escritorio","order":4,"parentId":0,"scrollX":736.5,"scrollY":579.75},
 {"id":10,"expanded":false,"name":"Biblioteca","order":11,"parentId":0,"scrollX":712.6666666666666,"scrollY":629.3333333333334},
-{"id":11,"expanded":true,"name":"vila","order":12,"parentId":0,"scrollX":1081.3333333333333,"scrollY":694.6666666666666},
+{"id":11,"expanded":true,"name":"vila","order":12,"parentId":0,"scrollX":1216.5,"scrollY":751.5},
 {"id":12,"expanded":true,"name":"eterior","order":9,"parentId":0,"scrollX":1445.4545454545455,"scrollY":1416},
 {"id":13,"expanded":false,"name":"Porao","order":13,"parentId":0,"scrollX":988.6666666666666,"scrollY":629.3333333333334,"quick":false}
 ]

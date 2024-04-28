@@ -7,10 +7,11 @@ null,
 {"id":5,"expanded":false,"name":"Cozinha","order":6,"parentId":0,"scrollX":616.9090909090909,"scrollY":685.0909090909091},
 {"id":6,"expanded":false,"name":"Entrada_corredor","order":7,"parentId":0,"scrollX":583.0909090909091,"scrollY":514.9090909090909},
 {"id":7,"expanded":true,"name":"Corredor1","order":8,"parentId":0,"scrollX":736.5,"scrollY":444.75},
-{"id":8,"expanded":false,"name":"Corredor2","order":10,"parentId":0,"scrollX":482,"scrollY":453.6},
+{"id":8,"expanded":false,"name":"Corredor2","order":9,"parentId":0,"scrollX":1216.5,"scrollY":709.5},
 {"id":9,"expanded":true,"name":"Escritorio","order":4,"parentId":0,"scrollX":736.5,"scrollY":579.75},
-{"id":10,"expanded":false,"name":"Biblioteca","order":11,"parentId":0,"scrollX":712.6666666666666,"scrollY":629.3333333333334},
-{"id":11,"expanded":true,"name":"vila","order":12,"parentId":0,"scrollX":1216.5,"scrollY":721.5},
-{"id":12,"expanded":true,"name":"eterior","order":9,"parentId":0,"scrollX":1445.4545454545455,"scrollY":1416},
-{"id":13,"expanded":false,"name":"Porao","order":13,"parentId":0,"scrollX":988.6666666666666,"scrollY":629.3333333333334,"quick":false}
+{"id":10,"expanded":false,"name":"Biblioteca","order":10,"parentId":0,"scrollX":712.6666666666666,"scrollY":629.3333333333334},
+{"id":11,"expanded":true,"name":"vila","order":11,"parentId":0,"scrollX":1216.5,"scrollY":721.5},
+null,
+{"id":13,"expanded":false,"name":"Porao","order":12,"parentId":0,"scrollX":988.6666666666666,"scrollY":629.3333333333334,"quick":false},
+{"id":14,"expanded":true,"name":"exterior_a_copiar","order":13,"parentId":0,"scrollX":1216.5,"scrollY":721.5}
 ]

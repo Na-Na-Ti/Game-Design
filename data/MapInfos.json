@@ -1,166 +1,21 @@
 [
-  null,
-  {
-    "id": 1,
-    "expanded": true,
-    "name": "Sala",
-    "order": 2,
-    "parentId": 2,
-    "scrollX": 1005.3333333333334,
-    "scrollY": 570.2222222222222
-  },
-  {
-    "id": 2,
-    "expanded": true,
-    "name": "Sala",
-    "order": 1,
-    "parentId": 0,
-    "scrollX": 1005.3333333333334,
-    "scrollY": 570.2222222222222
-  },
-  {
-    "id": 3,
-    "expanded": false,
-    "name": "Escritorio",
-    "order": 5,
-    "parentId": 9,
-    "scrollX": 1005.3333333333334,
-    "scrollY": 629.7777777777778
-  },
-  {
-    "id": 4,
-    "expanded": false,
-    "name": "Quarto",
-    "order": 3,
-    "parentId": 0,
-    "scrollX": 1005.3333333333334,
-    "scrollY": 617.3333333333334
-  },
-  {
-    "id": 5,
-    "expanded": false,
-    "name": "Cozinha",
-    "order": 6,
-    "parentId": 0,
-    "scrollX": 759.3333333333334,
-    "scrollY": 685
-  },
-  {
-    "id": 6,
-    "expanded": false,
-    "name": "Entrada_corredor",
-    "order": 7,
-    "parentId": 0,
-    "scrollX": 754,
-    "scrollY": 532.3333333333334
-  },
-  {
-    "id": 7,
-    "expanded": true,
-    "name": "Corredor1",
-    "order": 8,
-    "parentId": 0,
-    "scrollX": 759.3333333333334,
-    "scrollY": 445
-  },
-  {
-    "id": 8,
-    "expanded": false,
-    "name": "Corredor2",
-    "order": 9,
-    "parentId": 0,
-    "scrollX": 759.3333333333334,
-    "scrollY": 484.3333333333333
-  },
-  {
-    "id": 9,
-    "expanded": true,
-    "name": "Escritorio",
-    "order": 4,
-    "parentId": 0,
-    "scrollX": 1005.3333333333334,
-    "scrollY": 570.2222222222222
-  },
-  {
-    "id": 10,
-    "expanded": false,
-    "name": "Biblioteca",
-    "order": 10,
-    "parentId": 0,
-    "scrollX": 754,
-    "scrollY": 484.3333333333333
-  },
-  {
-    "id": 11,
-    "expanded": true,
-    "name": "vila",
-    "order": 11,
-    "parentId": 0,
-    "scrollX": 754,
-    "scrollY": 422.3333333333333
-  },
-  {
-    "id": 12,
-    "expanded": true,
-    "name": "Scene Velho",
-    "order": 15,
-    "parentId": 0,
-    "scrollX": 754,
-    "scrollY": 427.6666666666667
-  },
-  {
-    "id": 13,
-    "expanded": false,
-    "name": "Porao",
-    "order": 12,
-    "parentId": 0,
-    "scrollX": 1005.3333333333334,
-    "scrollY": 532.3333333333334,
-    "quick": false
-  },
-  {
-    "id": 14,
-    "expanded": true,
-    "name": "exterior_a_copiar",
-    "order": 13,
-    "parentId": 0,
-    "scrollX": 920,
-    "scrollY": 1413.2
-  },
-  {
-    "id": 15,
-    "expanded": false,
-    "name": "Opening Scene",
-    "order": 16,
-    "parentId": 0,
-    "scrollX": 816,
-    "scrollY": 624
-  },
-  {
-    "id": 16,
-    "expanded": false,
-    "name": "Scene Ratos",
-    "order": 17,
-    "parentId": 0,
-    "scrollX": 884.7272727272727,
-    "scrollY": 488.72727272727275
-  },
-  {
-    "id": 17,
-    "expanded": false,
-    "name": "Scene Cara",
-    "order": 18,
-    "parentId": 0,
-    "scrollX": 0,
-    "scrollY": 0
-  },
-  {
-    "id": 18,
-    "expanded": true,
-    "name": "exterior_a_copiar",
-    "order": 14,
-    "parentId": 14,
-    "scrollX": 754,
-    "scrollY": 1497.6666666666667
-  }
+null,
+{"id":1,"expanded":true,"name":"Sala","order":2,"parentId":2,"scrollX":1005.3333333333334,"scrollY":570.2222222222222},
+{"id":2,"expanded":true,"name":"Sala","order":1,"parentId":0,"scrollX":1005.3333333333334,"scrollY":570.2222222222222},
+{"id":3,"expanded":false,"name":"Escritorio","order":5,"parentId":9,"scrollX":1005.3333333333334,"scrollY":629.7777777777778},
+{"id":4,"expanded":false,"name":"Quarto","order":3,"parentId":0,"scrollX":1005.3333333333334,"scrollY":617.3333333333334},
+{"id":5,"expanded":false,"name":"Cozinha","order":6,"parentId":0,"scrollX":911.2,"scrollY":685.2},
+{"id":6,"expanded":false,"name":"Entrada_corredor","order":7,"parentId":0,"scrollX":904.8,"scrollY":513.2},
+{"id":7,"expanded":true,"name":"Corredor1","order":8,"parentId":0,"scrollX":759.3333333333334,"scrollY":445},
+{"id":8,"expanded":false,"name":"Corredor2","order":9,"parentId":0,"scrollX":759.3333333333334,"scrollY":484.3333333333333},
+{"id":9,"expanded":true,"name":"Escritorio","order":4,"parentId":0,"scrollX":1005.3333333333334,"scrollY":570.2222222222222},
+{"id":10,"expanded":false,"name":"Biblioteca","order":10,"parentId":0,"scrollX":754,"scrollY":484.3333333333333},
+{"id":11,"expanded":true,"name":"vila","order":11,"parentId":0,"scrollX":911.2,"scrollY":506.8},
+{"id":12,"expanded":true,"name":"Scene Velho","order":15,"parentId":0,"scrollX":754,"scrollY":427.6666666666667},
+{"id":13,"expanded":false,"name":"Porao","order":12,"parentId":0,"scrollX":1008.8,"scrollY":506.8,"quick":false},
+{"id":14,"expanded":true,"name":"exterior_a_copiar","order":13,"parentId":0,"scrollX":920,"scrollY":1413.2},
+{"id":15,"expanded":false,"name":"Opening Scene","order":16,"parentId":0,"scrollX":816,"scrollY":624},
+{"id":16,"expanded":false,"name":"Scene Ratos","order":17,"parentId":0,"scrollX":884.7272727272727,"scrollY":488.72727272727275},
+{"id":17,"expanded":false,"name":"Scene Cara","order":18,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":18,"expanded":true,"name":"exterior_a_copiar","order":14,"parentId":14,"scrollX":792,"scrollY":424.3333333333333}
 ]

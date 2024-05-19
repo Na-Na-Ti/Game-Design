@@ -30,5 +30,8 @@ null,
 {"id":28,"expanded":false,"name":"Cozinhaa","order":13,"parentId":26,"scrollX":754,"scrollY":622.3333333333334},
 {"id":29,"expanded":true,"name":"Escritorio","order":29,"parentId":0,"scrollX":754,"scrollY":732.3333333333334},
 {"id":30,"expanded":false,"name":"Escritorio_perigo","order":30,"parentId":29,"scrollX":754,"scrollY":641},
-{"id":31,"expanded":false,"name":"Quarto_misterio","order":31,"parentId":0,"scrollX":832,"scrollY":656}
+{"id":31,"expanded":true,"name":"Quarto_misterio","order":31,"parentId":0,"scrollX":982.8,"scrollY":655.8},
+{"id":32,"expanded":true,"name":"Quarto_feliz","order":32,"parentId":31,"scrollX":982.8,"scrollY":655.8},
+{"id":33,"expanded":true,"name":"Quarto_medo","order":33,"parentId":31,"scrollX":982.8,"scrollY":655.8},
+{"id":34,"expanded":false,"name":"Quarto_perigo","order":34,"parentId":31,"scrollX":973.1999999999999,"scrollY":727.8}
 ]

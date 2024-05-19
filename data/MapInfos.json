@@ -28,7 +28,7 @@ null,
 {"id":26,"expanded":true,"name":"Cozinha_02","order":12,"parentId":5,"scrollX":973.1999999999999,"scrollY":623.4},
 {"id":27,"expanded":true,"name":"Sala_sem_objetos","order":3,"parentId":1,"scrollX":973.1999999999999,"scrollY":641.4},
 {"id":28,"expanded":false,"name":"Cozinhaa","order":13,"parentId":26,"scrollX":973.1999999999999,"scrollY":622.1999999999999},
-{"id":29,"expanded":true,"name":"Escritorio","order":29,"parentId":0,"scrollX":973.1999999999999,"scrollY":521.4},
+{"id":29,"expanded":true,"name":"Escritorio","order":29,"parentId":0,"scrollX":754,"scrollY":521.6666666666666},
 {"id":30,"expanded":false,"name":"Escritorio_perigo","order":30,"parentId":29,"scrollX":973.1999999999999,"scrollY":521.4},
 {"id":31,"expanded":false,"name":"Quarto_misterio","order":31,"parentId":0,"scrollX":973.1999999999999,"scrollY":703.8}
 ]
